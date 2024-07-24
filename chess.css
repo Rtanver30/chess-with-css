@@ -1,0 +1,29 @@
+.rohit 
+{
+    height: 640px;
+    width: 840px;
+    margin: 20px;
+    border: 250% solid rgb(8, 0, 0);
+    /* background-color: yellow; */
+
+}
+.white
+{ 
+    height: 100px;
+    width: 100px;
+    border: 1px solid gray;
+    background-color: white;
+    float: left;
+    display: table-cell;
+    font-size:85px;
+}
+.black
+{
+    height: 100px;
+    width: 100px;
+    border: 1px solid gray;
+    background-color: rgb(66, 197, 34);
+    float: left;
+    display: table-cell;
+    font-size:85px;text-align: center;
+}
